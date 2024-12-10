@@ -79,8 +79,9 @@ How do customers behave based on their credit score?
 We compare three models with different algorithms and then use the one with the best performance, the three algorithms are Decision Tree Classifier, Random Forest Classifier, and Extreme Gradient Boosting Classifier.
 
 ## Evaluation
-![xgb](https://github.com/user-attachments/assets/735d4dce-f170-4610-a659-37a8af67bb8c)
+Confusion Matrix
 
+![xgb](https://github.com/user-attachments/assets/735d4dce-f170-4610-a659-37a8af67bb8c)
 
 Based on results, the Extreme Gradient Boosting model has the best performance in identifying customers with Poor credit scoring, both based on f-1 score (72% of accuracy) and confusion_matrix. We used this model to create a simple prototype to identify customer credit risk.
 
