@@ -2,15 +2,15 @@
 
 ## Business Understanding
 
-Despite providing various tech-based financial solutions, credit risk checks when individuals and businesses apply for loans are still done manually. After operating for one year, Finance Merdeka has collected data related to the financial and credit status of all customers, this data is expected to be leveraged to optimise the credit risk checking process when loan applications are ongoing.
+Despite providing various tech-based financial solutions, credit risk checks when individuals and businesses apply for loans are still done manually. After operating for one year, the company has collected data related to the financial and credit status of all customers, this data is expected to be leveraged to optimize the credit risk checking process when loan applications are ongoing.
 
 ### Business Problems
 
-The credit risk checking process is entirely done manually by the Risk Analytics Analyst team, this process definitely takes a lot of time and is very inefficient, by optimizing this process it is expected to cut the resource usage of the company.
+The credit risk checking process was entirely done manually by the Risk Analytics Analyst team, this process definitely takes a lot of time and was very inefficient, by optimizing this process it is expected to cut the resource usage of the company.
 
 ### Project Scope
 
-To address this business problem, we will use the collected data to develop a machine learning-based system to predict the credit risk of a customer. In the development process, we will experiment with several machine learning algorithms and compare them to find the best performance model, and then develop a simple prototype of the system.
+To address this business problem, we used the collected data to develop a machine learning-based system to predict the credit risk of a customer. In the development process, we experimented with several machine learning algorithms and compared them to find the best performance model, and then developed a simple prototype of the system.
 
 ## Data Understanding
 
