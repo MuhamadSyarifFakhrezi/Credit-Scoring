@@ -92,9 +92,7 @@ Based on results, the Extreme Gradient Boosting model has the best performance i
 
 Source Code Link (Jupyter Notebook): [notebook.ipnyb](https://github.com/MuhamadSyarifFakhrezi/Credit-Scoring/blob/main/notebook.ipynb)
 
-**Preparation**
-
-Setup environment:
+**Setup environment**
 - Via Google Colabolatory:
    1. Open the [notebook.ipynb](https://github.com/MuhamadSyarifFakhrezi/Credit-Scoring/blob/main/notebook.ipynb) file in Google Colaboratory
    2. Run the following code
