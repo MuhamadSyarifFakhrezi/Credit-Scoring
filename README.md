@@ -85,7 +85,8 @@ Confusion Matrix
 
 Based on results, the Extreme Gradient Boosting model has the best performance in identifying customers with Poor credit scoring, both based on f-1 score (72% of accuracy) and confusion_matrix. We used this model to create a simple prototype to identify customer credit risk.
 
-========================================================================================================================================================================
+
+   
 
 **Jupyter Notebook**
 
