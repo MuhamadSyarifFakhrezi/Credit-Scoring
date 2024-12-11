@@ -83,14 +83,21 @@ Confusion Matrix
 
 ![xgb](https://github.com/user-attachments/assets/735d4dce-f170-4610-a659-37a8af67bb8c)
 
-Based on results, the Extreme Gradient Boosting model has the best performance in identifying customers with Poor credit scoring, both based on f-1 score (72% of accuracy) and confusion_matrix. We used this model to create a simple prototype to identify customer credit risk.
+Based on results, the Extreme Gradient Boosting model has the best performance in identifying customers with Poor credit scoring, both based on f-1 score (72% of accuracy) and confusion_matrix.
+
+## Deployment
+
+![Screenshot (964)](https://github.com/user-attachments/assets/2d004e6c-a4d7-469e-b6e3-97ef1694c67f)
+![Screenshot (966)](https://github.com/user-attachments/assets/1ba95842-b31e-4ef9-80bb-5373b7b7a740)
+
+The best model was deployed through the streamlit app, to predict the credit risk of a customer whether they have a good, standard, or poor credit score based on the data inputted in the system.
 
 ****
 ----
 
 **Jupyter Notebook**
 
-Source Code Link (Jupyter Notebook): [notebook.ipnyb](https://github.com/MuhamadSyarifFakhrezi/Credit-Scoring/blob/main/notebook.ipynb)
+Source Code Link: [notebook.ipnyb](https://github.com/MuhamadSyarifFakhrezi/Credit-Scoring/blob/main/notebook.ipynb)
 
 **Setup environment**
 - Via Google Colabolatory:
